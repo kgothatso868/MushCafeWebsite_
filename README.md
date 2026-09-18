@@ -84,7 +84,7 @@ The Part 2 requirements were addressed by adding:
 Harvard-style references used for this assignment:
 
 - MDN Web Docs, 2026. HTML elements reference. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML/Element [Accessed 18 September 2026].
-- World Wide Web Consortium (W3C), 2026. CSS media queries. [Online]. Available at: https://www.w3.org/TR/css3-mediaqueries/ [Accessed 18 September 2026].
+- World Wide Web Consortium (W3C), 2026. CSS media queries. [Online]. Available at: https://www.w3.org/TR/css3-mediaqueries [Accessed 18 September 2026].
 - World Wide Web Consortium (W3C), 2026. HTML5 semantic elements. [Online]. Available at: https://www.w3.org/TR/html52/ [Accessed 18 September 2026].
 - MDN Web Docs, 2026. CSS grid layout. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout [Accessed 18 September 2026].
 - MDN Web Docs, 2026. Flexbox. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox [Accessed 18 September 2026].
